@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>my accounts
+</title>
+</head>
+<body>
+<h3>accounts</h3>
+<ul>
+  <li>
+    <a href="https://www.facebook.com/">facebook</a>
+  </li>
+  <li>
+
+  <a href="https://www.instagram.com/accounts/signup/?code=AQAm0TdKNsr_l-2594Pq_cGlpikY5ArMQjgBG03R4jcPX-dgFE_xP1vYt1VBmg3Vd05fnXhB2Vqds7SLAdZ0nVygd4-XIifgg8RJ_9DXgFFixNZjRSOTPEgNKfj3HR4cVIxWyJ41QjMwn0u-OaUTFAHRKZGXrWll0oJ5f1ILQdj3LwJepdA5gOtSxZz6r0fu3hB71bj9cw9eKjNWC3IVG71Jw8ce8QRAxFuohxryaw_pN8l7aTUp-5sevyUYqgMa3jaCgWxW5wuuqoLrY-E89Bzesgt4Nw5K9jsvstHt4sIBtQhQKyKl-zEby8r9KikpOPXvRJ4_AePbYGqNquB9nizfgfJatJqZJTQY_xnAHOQjuVcnO_qD1Y2kmNGJN6sa3HU&granted_scopes=create_note%2Cemail%2Cphoto_upload%2Cpublish_actions%2Cpublish_checkins%2Cpublish_stream%2Cread_friendlists%2Cstatus_update%2Cshare_item%2Cvideo_upload%2Cmanage_pages%2Cads_management%2Cpublic_profile&denied_scopes&state=%7B%22fbLoginKey%22%3A%221grz2wlxykk3b16o0p5o1t6z45z16uy06e10mqrql1do5befty4d9g%22%2C%22fbLoginReturnURL%22%3A%22%2Ffxcal%2Fdisclosure%2F%3Fnext%3D%252F%22%7D#_=_">instagram</a>
+  </li>
+</ul>
+
+</body>
+
+</html>
